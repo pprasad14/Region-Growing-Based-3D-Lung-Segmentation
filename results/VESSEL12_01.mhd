@@ -1,0 +1,14 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 542446
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = 162.5 -371.61799999999999 -193.11799999999999
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 1 0.76367200000000002 0.76367200000000002
+DimSize = 512 512 355
+ElementType = MET_UCHAR
+ElementDataFile = VESSEL12_01.zraw
